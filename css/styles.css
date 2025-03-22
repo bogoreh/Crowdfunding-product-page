@@ -740,11 +740,6 @@ div.pledge.h-0 {
   height: 100vh;
 }
 
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
@@ -775,11 +770,6 @@ div.pledge.h-0 {
 
 .m-auto {
   margin: auto;
-}
-
-.my-4 {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
 }
 
 .mx-auto {
@@ -992,10 +982,6 @@ div.pledge.h-0 {
   --tw-ring-color: rgba(59, 130, 246, 0.5);
   --tw-ring-offset-shadow: 0 0 #0000;
   --tw-ring-shadow: 0 0 #0000;
-}
-
-.text-center {
-  text-align: center;
 }
 
 .text-right {
